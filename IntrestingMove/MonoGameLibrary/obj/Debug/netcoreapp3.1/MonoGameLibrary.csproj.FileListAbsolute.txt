@@ -1,0 +1,12 @@
+C:\Workspace\src\GitHub\GameProgramming\jeff\Monogame\Samples\3.8\MonogameDemos\MonoGameLibrary\bin\Debug\netcoreapp3.1\Content\Arial.xnb
+C:\Workspace\src\GitHub\GameProgramming\jeff\Monogame\Samples\3.8\MonogameDemos\MonoGameLibrary\bin\Debug\netcoreapp3.1\Content\SpriteMarker.xnb
+C:\Workspace\src\GitHub\GameProgramming\jeff\Monogame\Samples\3.8\MonogameDemos\MonoGameLibrary\bin\Debug\netcoreapp3.1\MonoGameLibrary.deps.json
+C:\Workspace\src\GitHub\GameProgramming\jeff\Monogame\Samples\3.8\MonogameDemos\MonoGameLibrary\bin\Debug\netcoreapp3.1\MonoGameLibrary.dll
+C:\Workspace\src\GitHub\GameProgramming\jeff\Monogame\Samples\3.8\MonogameDemos\MonoGameLibrary\bin\Debug\netcoreapp3.1\MonoGameLibrary.pdb
+C:\Workspace\src\GitHub\GameProgramming\jeff\Monogame\Samples\3.8\MonogameDemos\MonoGameLibrary\obj\Debug\netcoreapp3.1\MonoGameLibrary.csproj.AssemblyReference.cache
+C:\Workspace\src\GitHub\GameProgramming\jeff\Monogame\Samples\3.8\MonogameDemos\MonoGameLibrary\obj\Debug\netcoreapp3.1\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\src\GitHub\GameProgramming\jeff\Monogame\Samples\3.8\MonogameDemos\MonoGameLibrary\obj\Debug\netcoreapp3.1\MonoGameLibrary.AssemblyInfoInputs.cache
+C:\Workspace\src\GitHub\GameProgramming\jeff\Monogame\Samples\3.8\MonogameDemos\MonoGameLibrary\obj\Debug\netcoreapp3.1\MonoGameLibrary.AssemblyInfo.cs
+C:\Workspace\src\GitHub\GameProgramming\jeff\Monogame\Samples\3.8\MonogameDemos\MonoGameLibrary\obj\Debug\netcoreapp3.1\MonoGameLibrary.csproj.CoreCompileInputs.cache
+C:\Workspace\src\GitHub\GameProgramming\jeff\Monogame\Samples\3.8\MonogameDemos\MonoGameLibrary\obj\Debug\netcoreapp3.1\MonoGameLibrary.dll
+C:\Workspace\src\GitHub\GameProgramming\jeff\Monogame\Samples\3.8\MonogameDemos\MonoGameLibrary\obj\Debug\netcoreapp3.1\MonoGameLibrary.pdb

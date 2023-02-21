@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Workspace/src/GitHub/GameProgramming/jeff/Monogame/Samples/3.8/MonogameDemos/MonoGameLibrary/Content/Arial.spritefont","C:/Workspace/src/GitHub/GameProgramming/jeff/Monogame/Samples/3.8/MonogameDemos/MonoGameLibrary/Content/bin/Windows/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21538,0.4873917
+"C:/Workspace/src/GitHub/GameProgramming/jeff/Monogame/Samples/3.8/MonogameDemos/MonoGameLibrary/Content/SpriteMarker.png","C:/Workspace/src/GitHub/GameProgramming/jeff/Monogame/Samples/3.8/MonogameDemos/MonoGameLibrary/Content/bin/Windows/Content/SpriteMarker.xnb","TextureProcessor","Texture2DContent",232,185,0.0478277
